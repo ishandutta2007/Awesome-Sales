@@ -1,14 +1,26 @@
-# Awesome-Sales
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Sales">
+    <img src="assets/banner.svg" alt="Awesome Sales Banner - Open Source CRM, Sales Automation & RevOps Platforms" width="100%">
+  </a>
+</p>
 
-## Top Sales Platforms
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+# 🚀 Awesome Sales: Open-Source CRM, Sales Automation, Pipeline Management & Revenue Operations
+
+A curated **GitHub-style reference directory of Sales CRM, Sales Automation, Pipeline Management, Lead Management, Outbound Prospecting, and Revenue Operations (RevOps) platforms**, covering 50+ open-source/self-hosted solutions and 32 commercial SaaS market leaders with verified pricing and free tier/trial limits.
+
+> **Primary Focus:** Highlighting **open-source software that can be self-hosted**, developer-first architectures, data sovereignty, and modular sales tech stacks, alongside comprehensive market analysis of commercial SaaS alternatives.
 
 
-
-A curated **GitHub-style reference list of Sales CRM, Sales Automation, Pipeline Management, Lead Management and Revenue Operations platforms**, covering commercial SaaS/hosted products and open-source/self-hosted alternatives.
-
-
-
-The primary emphasis is on **open-source software that can be self-hosted**, while keeping commercial SaaS/hosted platforms in a separate section.
 
 
 
@@ -160,7 +172,7 @@ Modern sales platforms typically provide:
 
 
 
-# SaaS/Hosted Platforms
+# 💼 SaaS/Hosted Platforms
 
 > **Market Overview:** The global Sales CRM and Sales Technology software market is estimated at **$85+ Billion in 2026** (projected to surpass **$150 Billion by 2030** at ~12% CAGR). The sector is **moderately fragmented**: enterprise core CRM is relatively concentrated among mega-cap providers (Salesforce, Microsoft Dynamics, Oracle, SAP, and HubSpot controlling ~45-50% aggregated market share), whereas the sales engagement, outbound prospecting, and SMB pipeline management segments are highly fragmented across hundreds of specialized SaaS solutions and emerging open-source stacks.
 
@@ -205,7 +217,7 @@ These are **commercial platforms** and are deliberately kept separate from the o
 
 
 
-# Commercial Platform Categories
+# 🏢 Commercial Platform Categories
 
 
 
@@ -273,7 +285,7 @@ Sales Intelligence / Prospecting
 
 
 
-# Open-Source
+# 🌐 Open-Source
 
 
 
@@ -393,7 +405,7 @@ A comprehensive directory of top open-source sales platforms, CRMs, outreach aut
 
 ---
 
-# Full Open-Source Sales CRM
+# 🏆 Full Open-Source Sales CRM
 
 
 
@@ -1125,7 +1137,7 @@ Axelor Open Suite provides open-source business applications including CRM, sale
 
 
 
-# Enterprise CRM
+# 🏢 Enterprise CRM
 
 
 
@@ -1349,7 +1361,7 @@ Personal CRM rather than enterprise sales automation.
 
 
 
-# Low-Code / Composable CRM
+# 🧩 Low-Code / Composable CRM
 
 
 
@@ -2572,7 +2584,7 @@ Sales Deal Alerts & Lead Handoffs
 ```
 
 
-# Commercial → Open-Source Mapping
+# 🔄 Commercial → Open-Source Mapping
 
 
 
@@ -2624,7 +2636,7 @@ Sales Deal Alerts & Lead Handoffs
 
 
 
-# Reference Architecture
+# 🏗️ Reference Architecture
 
 
 
@@ -2730,7 +2742,7 @@ flowchart TB
 
 
 
-# Lead-to-Customer Workflow
+# 📈 Lead-to-Customer Workflow
 
 
 
@@ -2806,7 +2818,7 @@ sequenceDiagram
 
 
 
-# Sales Pipeline Workflow
+# 🎯 Sales Pipeline Workflow
 
 
 
@@ -2858,7 +2870,7 @@ flowchart LR
 
 
 
-# Outbound Sales Workflow
+# 📨 Outbound Sales Workflow
 
 
 
@@ -2938,7 +2950,7 @@ flowchart TB
 
 
 
-# Sales Automation Workflow
+# ⚙️ Sales Automation Workflow
 
 
 
@@ -3056,7 +3068,7 @@ flowchart LR
 
 
 
-# Capability Matrix
+# 📊 Capability Matrix
 
 
 
@@ -3114,7 +3126,7 @@ flowchart LR
 
 
 
-# Recommended Open-Source Stacks
+# 🚀 Recommended Open-Source Stacks
 
 
 
@@ -3792,7 +3804,7 @@ for a more complete sales-engagement environment.
 
 
 
-# Best Open-Source Choices by Requirement
+# 💡 Best Open-Source Choices by Requirement
 
 
 
@@ -3844,7 +3856,7 @@ for a more complete sales-engagement environment.
 
 
 
-# What Open Source Can and Cannot Replace
+# ⚖️ What Open Source Can and Cannot Replace
 
 
 
@@ -4110,7 +4122,7 @@ This typically requires a dedicated data/ML layer.
 
 
 
-# Why Open Source Is Attractive
+# 🌟 Why Open Source Is Attractive
 
 
 
@@ -4250,7 +4262,7 @@ Modern open-source CRMs such as Twenty are particularly interesting for organiza
 
 
 
-# Sales Data Model
+# 🗄️ Sales Data Model
 
 
 
@@ -4762,7 +4774,7 @@ This can be calculated in:
 
 
 
-# Security & Compliance Considerations
+# 🛡️ Security & Compliance Considerations
 
 
 
@@ -4962,7 +4974,7 @@ flowchart TB
 
 
 
-# Important Licensing Considerations
+# 📜 Important Licensing Considerations
 
 
 
@@ -6411,3 +6423,22 @@ For someone specifically looking for an **open-source alternative to Salesforce 
 
 
 **Twenty / EspoCRM + Mautic + Chatwoot + n8n + PostgreSQL + OpenLeads/OpenProspector + Superset/PostHog** is one of the most compelling open-source foundations for building a complete, self-hosted sales platform rather than merely deploying a CRM.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales&type=date&legend=top-left)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please check out the guidelines and feel free to submit pull requests to add new open-source sales tools, CRM solutions, or updates.
+
+---
+
+## ⚖️ Disclaimer
+
+All company names, logos, brand trademarks, and registered trademarks cited herein are property of their respective owners. Pricing and free tier allocations are based on publicly available documentation as of 2026.
+
