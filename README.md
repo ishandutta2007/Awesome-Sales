@@ -333,15 +333,71 @@ The strongest projects range from complete CRM applications to highly specialize
 
 
 
+## 🏆 Open-Source Sales Ecosystem Leaderboard (Ranked by GitHub Stars)
+
+A comprehensive directory of top open-source sales platforms, CRMs, outreach automation engines, and revenue infrastructure, sorted in descending order of GitHub community stargazers.
+
+| Rank | Platform | Stars | Category | Primary Focus / Strengths |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | [n8n](https://github.com/n8n-io/n8n) | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow Automation | Enterprise workflow orchestration, AI sales agents, multi-app pipelines |
+| 2 | [Grafana](https://github.com/grafana/grafana) | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Analytics & Dashboards | Sales KPIs, pipeline health dashboards, telemetry monitoring |
+| 3 | [Redis](https://github.com/redis/redis) | [![GitHub stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) | Identity & Infrastructure | In-memory lead routing, sequence rate limiting, fast session caching |
+| 4 | [Apache Superset](https://github.com/apache/superset) | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Analytics & BI | Enterprise sales reporting, revenue intelligence, SQL data exploration |
+| 5 | [NocoDB](https://github.com/nocodb/nocodb) | [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Composable / Low-Code CRM | Smart spreadsheet CRM, custom deal views, REST/GraphQL APIs |
+| 6 | [Twenty](https://github.com/twentyhq/twenty) | [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Full Open-Source Sales CRM | Modern TypeScript CRM, custom objects, relational pipelines, developer-first |
+| 7 | [Odoo](https://github.com/odoo/odoo) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ERP + CRM | Comprehensive business suite, pipeline management, quotations, accounting |
+| 8 | [Metabase](https://github.com/metabase/metabase) | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Analytics & BI | Self-service sales dashboards, conversion analytics, embedded reporting |
+| 9 | [Cal.com](https://github.com/calcom/cal.com) | [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) | Sales Scheduling & Booking | Open-source meeting infrastructure, team round-robin routing, calendar sync |
+| 10 | [ToolJet](https://github.com/ToolJet/ToolJet) | [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) | Composable / Low-Code CRM | Low-code internal tools, sales rep dashboards, customer portals |
+| 11 | [Appsmith](https://github.com/appsmithorg/appsmith) | [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) | Composable / Low-Code CRM | Custom CRM interfaces, approval workflows, multi-database connectors |
+| 12 | [Novu](https://github.com/novuhq/novu) | [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | Sales Notifications | Unified notification infrastructure, sales alert triggers, multi-channel messaging |
+| 13 | [PostHog](https://github.com/PostHog/posthog) | [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Analytics & Product-Led Sales | Session replay, product analytics, user funnel tracking, feature flags |
+| 14 | [ERPNext](https://github.com/frappe/erpnext) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ERP + CRM | Integrated lead-to-order-to-invoice flows, inventory, multi-currency accounting |
+| 15 | [Keycloak](https://github.com/keycloak/keycloak) | [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Identity & Infrastructure | Enterprise SSO, OAuth2/OIDC authentication, role-based access control |
+| 16 | [Chatwoot](https://github.com/chatwoot/chatwoot) | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Customer Communication | Omnichannel customer engagement, live website chat, email & WhatsApp inbox |
+| 17 | [Budibase](https://github.com/Budibase/budibase) | [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) | Composable / Low-Code CRM | Fast internal CRM builder, customizable portal forms, role permissions |
+| 18 | [Monica](https://github.com/monicahq/monica) | [![GitHub stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | Relationship CRM | Personal CRM, contact history, relationship logs, interaction reminders |
+| 19 | [Activepieces](https://github.com/activepieces/activepieces) | [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | Workflow Automation | No-code sales ops automation, lead enrichment workflows, CRM connectors |
+| 20 | [Node-RED](https://github.com/node-red/node-red) | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | Workflow Automation | Event-driven visual flow programming, real-time sales webhook routing |
+| 21 | [Listmonk](https://github.com/knadh/listmonk) | [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | Sales Outreach & Email | High-throughput outbound campaigns, subscriber management, analytics |
+| 22 | [Temporal](https://github.com/temporalio/temporal) | [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Workflow Automation | Durable execution engine, fault-tolerant long-running deal sequences |
+| 23 | [PostgreSQL](https://github.com/postgres/postgres) | [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) | Identity & Infrastructure | Rock-solid relational database standard for enterprise CRM storage |
+| 24 | [Matomo](https://github.com/matomo-org/matomo) | [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers) | Analytics & Attribution | Privacy-preserving web analytics, campaign attribution, goal tracking |
+| 25 | [Windmill](https://github.com/windmill-labs/windmill) | [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers) | Workflow Automation | Code-first sales automation, Python/TypeScript background scripts, UI builder |
+| 26 | [theHarvester](https://github.com/laramies/theHarvester) | [![GitHub stars](https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white)](https://github.com/laramies/theHarvester/stargazers) | Lead Gen & Prospecting | OSINT reconnaissance, domain email discovery, external prospecting intel |
+| 27 | [Documenso](https://github.com/documenso/documenso) | [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | Sales Document Signing | Open-source digital contract signing, deal proposals, legal audit trail |
+| 28 | [Formbricks](https://github.com/formbricks/formbricks) | [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | Lead Qualification & Surveys | In-app lead capture, qualification forms, customer feedback surveys |
+| 29 | [Mautic](https://github.com/mautic/mautic) | [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | Marketing & Sales Automation | Lead scoring, automated drip sequences, multi-channel customer journeys |
+| 30 | [Typebot](https://github.com/baptisteArno/typebot.io) | [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers) | Conversational Lead Qualification | Interactive lead qualification chatbots, CRM embedding, conversational forms |
+| 31 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Invoicing & Payments | Sales quotes, payment gateway integration, recurring billing, contracts |
+| 32 | [Dolibarr](https://github.com/Dolibarr/dolibarr) | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | ERP + CRM | Modular open-source ERP/CRM for SMBs, sales proposals, order management |
+| 33 | [Papercups](https://github.com/papercups-io/papercups) | [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | Customer Communication | Open-source live chat widget, Slack integration, prospect conversations |
+| 34 | [Zammad](https://github.com/zammad/zammad) | [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | Customer Communication | Ticketing system, sales inquiry routing, omnichannel support integration |
+| 35 | [Baserow](https://github.com/baserow/baserow) | [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers) | Composable / Low-Code CRM | Collaborative database, visual Kanban deal stages, custom field builder |
+| 36 | [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers) | Enterprise Open-Source CRM | Mature Salesforce alternative, enterprise modules, workflows, reporting |
+| 37 | [Frappe CRM](https://github.com/frappe/crm) | [![GitHub stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers) | Modern Sales CRM | Lightweight sales CRM, intuitive visual pipeline, Frappe Framework extensibility |
+| 38 | [EspoCRM](https://github.com/espocrm/espocrm) | [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | Full Open-Source Sales CRM | Leads, accounts, deals, sales workflows, REST API, customer portal |
+| 39 | [Keila](https://github.com/pentacent/keila) | [![GitHub stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers) | Sales Outreach & Email | Privacy-first campaign mailer, contact segmentation, deliverability tracking |
+| 40 | [Corteza](https://github.com/cortezaproject/corteza) | [![GitHub stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers) | Enterprise CRM | Low-code enterprise CRM, record permissions, modular sales applications |
+| 41 | [YetiForce CRM](https://github.com/YetiForceCompany/YetiForceCRM) | [![GitHub stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers) | Enterprise CRM | Advanced enterprise CRM/ERP suite, 80+ modules, granular security |
+| 42 | [Axelor](https://github.com/axelor/axelor-open-suite) | [![GitHub stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers) | Enterprise CRM | BPM platform, modular sales, invoicing, contracts, collaborative CRM |
+| 43 | [CiviCRM](https://github.com/civicrm/civicrm-core) | [![GitHub stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers) | Enterprise CRM | Non-profit & civic CRM, donor tracking, contribution pipelines, events |
+| 44 | [OroCRM](https://github.com/oroinc/crm) | [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers) | Enterprise CRM | B2B and multi-channel commerce CRM, customer 360 view, marketing tools |
+| 45 | [OpenGTM](https://github.com/buildingopen/opengtm) | [![GitHub stars](https://img.shields.io/github/stars/buildingopen/opengtm?style=social&color=white)](https://github.com/buildingopen/opengtm/stargazers) | Lead Gen & Prospecting | Open go-to-market automation, outbound sequencing, contact enrichment |
+| 46 | [KeeLead](https://github.com/Atum246/keelead) | [![GitHub stars](https://img.shields.io/github/stars/Atum246/keelead?style=social&color=white)](https://github.com/Atum246/keelead/stargazers) | Lead Gen & Prospecting | Lightweight sales lead tracker, prospect management, qualification |
+| 47 | [OpenLeads](https://github.com/Samyrrrrrr990/openleads) | [![GitHub stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=social&color=white)](https://github.com/Samyrrrrrr990/openleads/stargazers) | Lead Gen & Prospecting | Open-source lead scraper and pipeline collector |
+| 48 | [OpenProspector](https://github.com/clawnify/OpenProspector) | [![GitHub stars](https://img.shields.io/github/stars/clawnify/OpenProspector?style=social&color=white)](https://github.com/clawnify/OpenProspector/stargazers) | Lead Gen & Prospecting | Automated email prospecting, verification, domain discovery |
+| 49 | [LeadPipeline](https://github.com/AI-Invention/lead-pipeline) | [![GitHub stars](https://img.shields.io/github/stars/AI-Invention/lead-pipeline?style=social&color=white)](https://github.com/AI-Invention/lead-pipeline/stargazers) | Lead Gen & Prospecting | AI-assisted sales pipeline generator and prospect qualification |
+| 50 | [Lead Research Agent](https://github.com/mcvalosborne/lead-research-agent) | [![GitHub stars](https://img.shields.io/github/stars/mcvalosborne/lead-research-agent?style=social&color=white)](https://github.com/mcvalosborne/lead-research-agent/stargazers) | Lead Gen & Prospecting | Autonomous research agent for company profiling and prospect analysis |
+
+
+---
+
 # Full Open-Source Sales CRM
 
 
 
-# 1. Twenty
-
-
-
-https://github.com/twentyhq/twenty
+# 1. Twenty [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)https://github.com/twentyhq/twenty
 
 
 
@@ -431,11 +487,7 @@ Twenty's architecture is designed around customizable objects and developer-orie
 
 
 
-# 2. EspoCRM
-
-
-
-https://github.com/espocrm/espocrm
+# 2. EspoCRM [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)https://github.com/espocrm/espocrm
 
 
 
@@ -525,11 +577,7 @@ EspoCRM is licensed under AGPLv3. ([github.com](https://github.com/espocrm/espoc
 
 
 
-# 3. SuiteCRM
-
-
-
-https://github.com/SuiteCRM/SuiteCRM
+# 3. SuiteCRM [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)https://github.com/SuiteCRM/SuiteCRM
 
 
 
@@ -609,11 +657,7 @@ SuiteCRM is published under AGPLv3. ([github.com](https://github.com/SuiteCRM/Su
 
 
 
-# 4. Frappe CRM
-
-
-
-https://github.com/frappe/crm
+# 4. Frappe CRM [![GitHub stars](https://img.shields.io/github/stars/frappe/crm?style=social&color=white)](https://github.com/frappe/crm/stargazers)https://github.com/frappe/crm
 
 
 
@@ -675,11 +719,7 @@ ERPNext ecosystem
 
 
 
-# 5. ERPNext CRM
-
-
-
-https://github.com/frappe/erpnext
+# 5. ERPNext CRM [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)https://github.com/frappe/erpnext
 
 
 
@@ -765,11 +805,7 @@ This makes ERPNext particularly powerful for product businesses where the sales 
 
 
 
-# 6. Odoo CRM
-
-
-
-https://github.com/odoo/odoo
+# 6. Odoo CRM [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)https://github.com/odoo/odoo
 
 
 
@@ -851,11 +887,7 @@ The Community edition provides an open-source core, while Odoo's overall product
 
 
 
-# 7. Vtiger CRM
-
-
-
-https://github.com/vtigercrm/vtigercrm
+# 7. Vtiger CRM [![GitHub stars](https://img.shields.io/github/stars/vtiger/vtiger?style=social&color=white)](https://github.com/vtiger/vtiger/stargazers)https://github.com/vtigercrm/vtigercrm
 
 
 
@@ -925,11 +957,7 @@ Support
 
 
 
-# 8. YetiForce
-
-
-
-https://github.com/YetiForceCompany/YetiForceCRM
+# 8. YetiForce [![GitHub stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers)https://github.com/YetiForceCompany/YetiForceCRM
 
 
 
@@ -993,11 +1021,7 @@ ERP-style workflows
 
 
 
-# 9. Dolibarr
-
-
-
-https://github.com/Dolibarr/dolibarr
+# 9. Dolibarr [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)https://github.com/Dolibarr/dolibarr
 
 
 
@@ -1063,11 +1087,7 @@ Sales
 
 
 
-# 10. Axelor
-
-
-
-https://github.com/axelor/axelor-open-suite
+# 10. Axelor [![GitHub stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers)https://github.com/axelor/axelor-open-suite
 
 
 
@@ -1109,11 +1129,7 @@ Axelor Open Suite provides open-source business applications including CRM, sale
 
 
 
-# 11. Corteza
-
-
-
-https://github.com/cortezaproject/corteza
+# 11. Corteza [![GitHub stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)https://github.com/cortezaproject/corteza
 
 
 
@@ -1171,11 +1187,7 @@ Low-code development
 
 
 
-# 12. OroCRM
-
-
-
-https://github.com/oroinc/crm
+# 12. OroCRM [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)https://github.com/oroinc/crm
 
 
 
@@ -1237,11 +1249,7 @@ Sales workflows
 
 
 
-# 13. CiviCRM
-
-
-
-https://github.com/civicrm/civicrm-core
+# 13. CiviCRM [![GitHub stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)https://github.com/civicrm/civicrm-core
 
 
 
@@ -1301,11 +1309,7 @@ Campaigns
 
 
 
-# 14. Monica
-
-
-
-https://github.com/monicahq/monica
+# 14. Monica [![GitHub stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)https://github.com/monicahq/monica
 
 
 
@@ -1349,11 +1353,7 @@ Personal CRM rather than enterprise sales automation.
 
 
 
-# 15. NocoDB
-
-
-
-https://github.com/nocodb/nocodb
+# 15. NocoDB [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)https://github.com/nocodb/nocodb
 
 
 
@@ -1389,11 +1389,7 @@ Open-source Airtable-like platform that can be used as a lightweight composable 
 
 
 
-# 16. Baserow
-
-
-
-https://github.com/baserow/baserow
+# 16. Baserow [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)https://github.com/baserow/baserow
 
 
 
@@ -1433,11 +1429,7 @@ Baserow
 
 
 
-# 17. Appsmith
-
-
-
-https://github.com/appsmithorg/appsmith
+# 17. Appsmith [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)https://github.com/appsmithorg/appsmith
 
 
 
@@ -1465,11 +1457,7 @@ Open-source internal application builder.
 
 
 
-# 18. Budibase
-
-
-
-https://github.com/Budibase/budibase
+# 18. Budibase [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)https://github.com/Budibase/budibase
 
 
 
@@ -1497,11 +1485,7 @@ Open-source low-code application platform.
 
 
 
-# 19. ToolJet
-
-
-
-https://github.com/ToolJet/ToolJet
+# 19. ToolJet [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)https://github.com/ToolJet/ToolJet
 
 
 
@@ -1543,11 +1527,7 @@ The following projects can fill that gap.
 
 
 
-# 20. Mautic
-
-
-
-https://github.com/mautic/mautic
+# 20. Mautic [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)https://github.com/mautic/mautic
 
 
 
@@ -1611,11 +1591,7 @@ Lead Scoring
 
 
 
-# 21. Listmonk
-
-
-
-https://github.com/knadh/listmonk
+# 21. Listmonk [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)https://github.com/knadh/listmonk
 
 
 
@@ -1647,11 +1623,7 @@ High-performance open-source newsletter and mailing-list manager.
 
 
 
-# 22. Keila
-
-
-
-https://github.com/pentacent/keila
+# 22. Keila [![GitHub stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)https://github.com/pentacent/keila
 
 
 
@@ -1677,7 +1649,7 @@ Open-source email marketing platform.
 
 
 
-# 23. Mautic + CRM
+# 23. Mautic [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)+ CRM
 
 
 
@@ -1717,11 +1689,7 @@ Mautic
 
 
 
-# 24. Chatwoot
-
-
-
-https://github.com/chatwoot/chatwoot
+# 24. Chatwoot [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)https://github.com/chatwoot/chatwoot
 
 
 
@@ -1781,11 +1749,7 @@ Support
 
 
 
-# 25. Papercups
-
-
-
-https://github.com/papercups-io/papercups
+# 25. Papercups [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)https://github.com/papercups-io/papercups
 
 
 
@@ -1811,11 +1775,7 @@ Open-source customer communication platform.
 
 
 
-# 26. Zammad
-
-
-
-https://github.com/zammad/zammad
+# 26. Zammad [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)https://github.com/zammad/zammad
 
 
 
@@ -1887,11 +1847,7 @@ A modular architecture is usually more realistic.
 
 
 
-# 27. OpenLeads
-
-
-
-https://github.com/Samyrrrrrr990/openleads
+# 27. OpenLeads [![GitHub stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=social&color=white)](https://github.com/Samyrrrrrr990/openleads/stargazers)https://github.com/Samyrrrrrr990/openleads
 
 
 
@@ -1919,11 +1875,7 @@ An open-source prospecting/lead-generation project designed around discovering p
 
 
 
-# 28. OpenProspector
-
-
-
-https://github.com/clawnify/OpenProspector
+# 28. OpenProspector [![GitHub stars](https://img.shields.io/github/stars/clawnify/OpenProspector?style=social&color=white)](https://github.com/clawnify/OpenProspector/stargazers)https://github.com/clawnify/OpenProspector
 
 
 
@@ -1949,11 +1901,7 @@ Open-source lead-enrichment/prospecting application.
 
 
 
-# 29. OpenGTM
-
-
-
-https://github.com/buildingopen/opengtm
+# 29. OpenGTM [![GitHub stars](https://img.shields.io/github/stars/buildingopen/opengtm?style=social&color=white)](https://github.com/buildingopen/opengtm/stargazers)https://github.com/buildingopen/opengtm
 
 
 
@@ -1977,11 +1925,7 @@ Open-source GTM platform aimed at combining:
 
 
 
-# 30. LeadPipeline
-
-
-
-https://github.com/AI-Invention/lead-pipeline
+# 30. LeadPipeline [![GitHub stars](https://img.shields.io/github/stars/AI-Invention/lead-pipeline?style=social&color=white)](https://github.com/AI-Invention/lead-pipeline/stargazers)https://github.com/AI-Invention/lead-pipeline
 
 
 
@@ -2025,11 +1969,7 @@ Close
 
 
 
-# 31. KeeLead
-
-
-
-https://github.com/Atum246/keelead
+# 31. KeeLead [![GitHub stars](https://img.shields.io/github/stars/Atum246/keelead?style=social&color=white)](https://github.com/Atum246/keelead/stargazers)https://github.com/Atum246/keelead
 
 
 
@@ -2057,11 +1997,7 @@ Open-source AI-assisted lead-generation and research platform.
 
 
 
-# 32. Lead Research Agent
-
-
-
-https://github.com/mcvalosborne/lead-research-agent
+# 32. Lead Research Agent [![GitHub stars](https://img.shields.io/github/stars/mcvalosborne/lead-research-agent?style=social&color=white)](https://github.com/mcvalosborne/lead-research-agent/stargazers)https://github.com/mcvalosborne/lead-research-agent
 
 
 
@@ -2073,11 +2009,7 @@ Open-source AI-assisted lead discovery and research workflow.
 
 
 
-# 33. theHarvester
-
-
-
-https://github.com/laramies/theHarvester
+# 33. theHarvester [![GitHub stars](https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white)](https://github.com/laramies/theHarvester/stargazers)https://github.com/laramies/theHarvester
 
 
 
@@ -2109,11 +2041,7 @@ OSINT tool for discovering publicly available information associated with domain
 
 
 
-# 34. n8n
-
-
-
-https://github.com/n8n-io/n8n
+# 34. n8n [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)https://github.com/n8n-io/n8n
 
 
 
@@ -2157,11 +2085,7 @@ n8n
 
 
 
-# 35. Node-RED
-
-
-
-https://github.com/node-red/node-red
+# 35. Node-RED [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)https://github.com/node-red/node-red
 
 
 
@@ -2191,11 +2115,7 @@ Useful for connecting:
 
 
 
-# 36. Windmill
-
-
-
-https://github.com/windmill-labs/windmill
+# 36. Windmill [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)https://github.com/windmill-labs/windmill
 
 
 
@@ -2223,11 +2143,7 @@ Open-source workflow and automation platform.
 
 
 
-# 37. Temporal
-
-
-
-https://github.com/temporalio/temporal
+# 37. Temporal [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)https://github.com/temporalio/temporal
 
 
 
@@ -2259,11 +2175,7 @@ Durable workflow orchestration.
 
 
 
-# 38. Apache Superset
-
-
-
-https://github.com/apache/superset
+# 38. Apache Superset [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)https://github.com/apache/superset
 
 
 
@@ -2295,11 +2207,7 @@ Open-source BI platform.
 
 
 
-# 39. Metabase
-
-
-
-https://github.com/metabase/metabase
+# 39. Metabase [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)https://github.com/metabase/metabase
 
 
 
@@ -2311,11 +2219,7 @@ Self-service analytics platform.
 
 
 
-# 40. Grafana
-
-
-
-https://github.com/grafana/grafana
+# 40. Grafana [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)https://github.com/grafana/grafana
 
 
 
@@ -2327,11 +2231,7 @@ Useful for operational sales dashboards and real-time metrics.
 
 
 
-# 41. PostHog
-
-
-
-https://github.com/PostHog/posthog
+# 41. PostHog [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)https://github.com/PostHog/posthog
 
 
 
@@ -2363,11 +2263,7 @@ This is especially valuable for SaaS companies where sales and product signals n
 
 
 
-# 42. Matomo
-
-
-
-https://github.com/matomo-org/matomo
+# 42. Matomo [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)https://github.com/matomo-org/matomo
 
 
 
@@ -2397,11 +2293,7 @@ Useful for:
 
 
 
-# 43. Keycloak
-
-
-
-https://github.com/keycloak/keycloak
+# 43. Keycloak [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)https://github.com/keycloak/keycloak
 
 
 
@@ -2441,11 +2333,7 @@ Open-source IAM platform.
 
 
 
-# 44. PostgreSQL
-
-
-
-https://github.com/postgres/postgres
+# 44. PostgreSQL [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers)https://github.com/postgres/postgres
 
 
 
@@ -2457,11 +2345,7 @@ A strong open-source relational database for CRM systems.
 
 
 
-# 45. Redis
-
-
-
-https://github.com/redis/redis
+# 45. Redis [![GitHub stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)https://github.com/redis/redis
 
 
 
@@ -2483,6 +2367,209 @@ Useful for:
 
 ---
 
+
+
+
+---
+
+# 46. Cal.com [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
+
+https://github.com/calcom/cal.com
+
+https://cal.com/
+
+**Cal.com is the open-source scheduling infrastructure for sales teams, replacing Calendly and HubSpot Meetings.**
+
+### Features
+
+* Team scheduling & round-robin routing
+* Automated calendar synchronization (Google, Outlook, Apple)
+* CRM webhook integration (HubSpot, Salesforce, Twenty)
+* Custom booking workflows & lead qualification routing
+* White-label branding & custom domains
+* Self-hosted or managed cloud
+
+### Best for
+
+```text
+Calendly
+   +
+HubSpot Meetings
+   +
+Sales Qualification Routing
+```
+
+---
+
+# 47. Documenso [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+
+https://github.com/documenso/documenso
+
+https://documenso.com/
+
+**Documenso is the open-source DocuSign alternative for signing sales proposals, contracts, NDAs, and deal quotes.**
+
+### Features
+
+* Cryptographically verified digital signatures
+* Multi-party signing workflows & recipient ordering
+* Template management for sales contracts & NDAs
+* Full audit trail & certificate of completion
+* Webhooks and developer REST API
+* Self-hostable via Docker
+
+### Best for
+
+```text
+DocuSign
+   +
+PandaDoc
+   +
+Sales Contract Execution
+```
+
+---
+
+# 48. Typebot [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
+
+https://github.com/baptisteArno/typebot.io
+
+https://typebot.io/
+
+**Typebot is a conversational chatbot and lead qualification form builder for capturing and qualifying sales inbound traffic.**
+
+### Features
+
+* Visual drag-and-drop conversational flow editor
+* Native CRM integrations and webhook forwarding
+* Real-time lead qualification & routing logic
+* Embeddable widgets, popups, and full-page chat
+* Dynamic OpenAI / LLM integration for AI sales agents
+* Self-hostable with Docker
+
+### Best for
+
+```text
+Drift
+   +
+Landbot
+   +
+Conversational Inbound Lead Capture
+```
+
+---
+
+# 49. Formbricks [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
+
+https://github.com/formbricks/formbricks
+
+https://formbricks.com/
+
+**Formbricks is the open-source survey and customer feedback suite for lead profiling, win/loss sales surveys, and NPS.**
+
+### Features
+
+* In-app and targeted email micro-surveys
+* Lead qualification scoring & data enrichment
+* Privacy-first, GDPR-compliant architecture
+* Real-time webhooks into CRMs and Slack
+* Multi-language support and custom CSS branding
+* Full self-hosting capabilities
+
+### Best for
+
+```text
+Qualtrics
+   +
+Typeform
+   +
+Win/Loss Sales Analysis
+```
+
+---
+
+# 50. Activepieces [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+
+https://github.com/activepieces/activepieces
+
+https://www.activepieces.com/
+
+**Activepieces is an open-source Zapier alternative tailored for automating sales workflows, lead enrichments, and CRM syncs.**
+
+### Features
+
+* Intuitive no-code flow builder for revenue ops
+* 200+ pre-built connectors including CRMs, spreadsheets, and emails
+* TypeScript-based custom piece extensibility
+* AI Copilot for building sales sequences and automations
+* Self-hosted or cloud options with team permissions
+
+### Best for
+
+```text
+Zapier
+   +
+Make.com
+   +
+RevOps Integration
+```
+
+---
+
+# 51. Invoice Ninja [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+
+https://github.com/invoiceninja/invoiceninja
+
+https://invoiceninja.com/
+
+**Invoice Ninja is an open-source platform for generating sales quotes, proposals, contracts, invoices, and online payments.**
+
+### Features
+
+* Custom sales proposals, estimates, and converted invoices
+* Integration with 30+ payment gateways (Stripe, PayPal, Authorize.net)
+* Client-facing customer portal for approving quotes and pay
+* Recurring billing, subscription plans, and partial payments
+* Multi-currency, tax calculation, and multi-language support
+* Self-hosted PHP/Laravel backend with Flutter UI
+
+### Best for
+
+```text
+FreshBooks
+   +
+QuickBooks Invoicing
+   +
+Sales Proposal-to-Payment
+```
+
+---
+
+# 52. Novu [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
+
+https://github.com/novuhq/novu
+
+https://novu.co/
+
+**Novu is the open-source notification infrastructure powering real-time deal alerts, lead handoffs, and sales rep notifications.**
+
+### Features
+
+* Multi-channel delivery (Email, SMS, Push, In-App Notification Center, Chat/Slack)
+* Visual workflow editor for sales alert routing and digestion
+* User preferences management and rate-limiting
+* High-throughput delivery engine
+* Self-hosted or managed service
+
+### Best for
+
+```text
+Courier
+   +
+Knock
+   +
+Sales Deal Alerts & Lead Handoffs
+```
 
 
 # Commercial → Open-Source Mapping
