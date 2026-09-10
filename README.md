@@ -349,7 +349,7 @@ The strongest projects range from complete CRM applications to highly specialize
 
 A comprehensive directory of top open-source sales platforms, CRMs, outreach automation engines, and revenue infrastructure, sorted in descending order of GitHub community stargazers.
 
-| Rank | Platform | Stars | Category | Primary Focus / Strengths |
+| Rank | Platform | Github_Stars | Category | Primary Focus / Strengths |
 | :---: | :--- | :---: | :--- | :--- |
 | 1 | [n8n](https://github.com/n8n-io/n8n) | [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow Automation | Enterprise workflow orchestration, AI sales agents, multi-app pipelines |
 | 2 | [Grafana](https://github.com/grafana/grafana) | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Analytics & Dashboards | Sales KPIs, pipeline health dashboards, telemetry monitoring |
